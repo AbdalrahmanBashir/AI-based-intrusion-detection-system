@@ -70,4 +70,4 @@ This project showcases the comparative effectiveness of different machine learni
 - Optimize the IDS for deployment on edge devices with limited resources.
 
 ## Presentation Link
-!(https://github.com/AbdalrahmanBashir/AI-based-intrusion-detection-system)
+(https://www.youtube.com/watch?v=QkbXri5SZnc)
