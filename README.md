@@ -69,3 +69,5 @@ This project showcases the comparative effectiveness of different machine learni
 - Explore additional attack types, including GPS spoofing and jamming.
 - Optimize the IDS for deployment on edge devices with limited resources.
 
+##Presentation Link
+!(https://github.com/AbdalrahmanBashir/AI-based-intrusion-detection-system)
