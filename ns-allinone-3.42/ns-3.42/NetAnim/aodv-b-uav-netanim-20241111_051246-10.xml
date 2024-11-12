@@ -1,0 +1,213 @@
+<anim ver="netanim-3.109" filetype="animation" >
+<node id="0" sysId="0" locX="4948.538285" locY="97.81817983" />
+<node id="1" sysId="0" locX="4977.586887" locY="97.05837011" />
+<node id="2" sysId="0" locX="4612.648532" locY="89.45582358" />
+<node id="3" sysId="0" locX="4671.939192" locY="90.29461115" />
+<node id="4" sysId="0" locX="4624.336009" locY="82.03652426" />
+<node id="5" sysId="0" locX="4614.13895" locY="98.89292576" />
+<node id="6" sysId="0" locX="4653.684486" locY="85.35178265" />
+<node id="7" sysId="0" locX="4634.998435" locY="97.11204295" />
+<node id="8" sysId="0" locX="4679.76725" locY="89.13579493" />
+<node id="9" sysId="0" locX="4664.818817" locY="99.16596655" />
+<nu p="c" t="250" id="0" r="255" g="0" b="0" />
+<nu p="c" t="250" id="1" r="255" g="0" b="0" />
+<nu p="c" t="250" id="2" r="255" g="0" b="0" />
+<nu p="c" t="250" id="3" r="255" g="0" b="0" />
+<nu p="c" t="250" id="4" r="255" g="0" b="0" />
+<nu p="c" t="250" id="5" r="255" g="0" b="0" />
+<nu p="c" t="250" id="6" r="255" g="0" b="0" />
+<nu p="c" t="250" id="7" r="255" g="0" b="0" />
+<nu p="c" t="250" id="8" r="255" g="0" b="0" />
+<nu p="c" t="250" id="9" r="255" g="0" b="0" />
+<nonp2plinkproperties id="0" ipAddress="10.10.0.1~00:00:00:00:00:01" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="0" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="1" ipAddress="10.10.0.2~00:00:00:00:00:02" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="1" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="2" ipAddress="10.10.0.3~00:00:00:00:00:03" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="2" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="3" ipAddress="10.10.0.4~00:00:00:00:00:04" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="3" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="4" ipAddress="10.10.0.5~00:00:00:00:00:05" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="4" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="5" ipAddress="10.10.0.6~00:00:00:00:00:06" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="5" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="6" ipAddress="10.10.0.7~00:00:00:00:00:07" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="6" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="7" ipAddress="10.10.0.8~00:00:00:00:00:08" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="7" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="8" ipAddress="10.10.0.9~00:00:00:00:00:09" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="8" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<nonp2plinkproperties id="9" ipAddress="10.10.0.10~00:00:00:00:00:0a" channelType="ns3::YansWifiChannel" />
+<nonp2plinkproperties id="9" ipAddress="127.0.0.1~00:00:00:00:00:00" channelType="Unknown channel" />
+<ip n="0" >
+<address >10.10.0.1</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="0" >
+<address >10.10.0.1</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="1" >
+<address >10.10.0.2</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="1" >
+<address >10.10.0.2</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="2" >
+<address >10.10.0.3</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="2" >
+<address >10.10.0.3</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="3" >
+<address >10.10.0.4</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="3" >
+<address >10.10.0.4</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="4" >
+<address >10.10.0.5</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="4" >
+<address >10.10.0.5</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="5" >
+<address >10.10.0.6</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="5" >
+<address >10.10.0.6</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="6" >
+<address >10.10.0.7</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="6" >
+<address >10.10.0.7</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="7" >
+<address >10.10.0.8</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="7" >
+<address >10.10.0.8</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="8" >
+<address >10.10.0.9</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="8" >
+<address >10.10.0.9</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="9" >
+<address >10.10.0.10</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ip n="9" >
+<address >10.10.0.10</address>
+
+<address >127.0.0.1</address>
+
+</ip>
+<ipv6 n="0" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="1" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="2" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="3" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="4" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="5" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="6" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="7" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="8" >
+<address >::1</address>
+
+</ipv6>
+<ipv6 n="9" >
+<address >::1</address>
+
+</ipv6>
+<nu p="s" t="250" id="0" w="1" h="1" />
+<nu p="s" t="250" id="1" w="1" h="1" />
+<nu p="s" t="250" id="2" w="1" h="1" />
+<nu p="s" t="250" id="3" w="1" h="1" />
+<nu p="s" t="250" id="4" w="1" h="1" />
+<nu p="s" t="250" id="5" w="1" h="1" />
+<nu p="s" t="250" id="6" w="1" h="1" />
+<nu p="s" t="250" id="7" w="1" h="1" />
+<nu p="s" t="250" id="8" w="1" h="1" />
+<nu p="s" t="250" id="9" w="1" h="1" />
+<ncs ncId="0" n="RemainingEnergy" t="DOUBLE" />
+</anim>

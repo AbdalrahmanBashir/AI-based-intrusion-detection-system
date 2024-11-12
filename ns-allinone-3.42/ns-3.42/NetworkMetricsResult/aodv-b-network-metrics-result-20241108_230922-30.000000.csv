@@ -1,0 +1,5 @@
+Metric,Value,Unit
+Packet Delivery Ratio,98.4605, %
+Average End-to-End Delay,0.00246389,  seconds
+Average Throughput,24.8942,  Kbps
+Total Throughput,19342.8,  Kbps
